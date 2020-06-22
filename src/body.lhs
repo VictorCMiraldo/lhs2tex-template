@@ -3,6 +3,8 @@
 
 Some cool stuff!
 
+%format eta = "\HV{\eta}"
+
 \begin{myhs}
 \begin{code}
 fib :: Int -> Int
